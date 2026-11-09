@@ -1,9 +1,9 @@
 ### Christopher H. Stappert
 
 I build technology that works in organisations. At [intrinsify](https://intrinsify.de) I'm Head of
-IT Projects and develop [Clarity](https://clarity.intrinsify.de) together with our consultants: an
-AI system that reveals cultural patterns in organisational data. I own its architecture, strategy
-and operations. With Stappert IT I build [Saldoblick](https://saldoblick.de), a bespoke cash-flow
+IT Projects and responsible for our technology, from strategy to operations. I own
+[Clarity](https://clarity.intrinsify.de), our licensed AI product that reveals cultural patterns in
+organisational data. With Stappert IT I build [Saldoblick](https://saldoblick.de), a bespoke cash-flow
 forecast you can query through an AI assistant.
 
 - **Stack:** TypeScript, Vue, Nuxt, Node.js · agent systems with the Vercel AI SDK · AWS Bedrock, Google Vertex AI · Supabase, PostgreSQL · Vercel
